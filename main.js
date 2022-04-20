@@ -10,6 +10,7 @@ let app = new Vue({
     return {
       index: 0,
       image: null,
+      message: "Malenia, Blade of Miquella",
       images: [
         {
           id: 1,
